@@ -1,0 +1,1 @@
+Replaces selected category titles with images on the home page.
